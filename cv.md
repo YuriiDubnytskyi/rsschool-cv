@@ -2,7 +2,7 @@
 ### Contacts
 * *Phone number* : 0687516147;
 * *Email* : yur.dub7@gmail.com;
-* *GitHub* : [github-link](https://github.com/arguchinsky);
+* *GitHub* : [github-link](https://github.com/YuriiDubnytskyi);
 
 ## About me
 I am a student of LP 'NU' in Lviv. 
@@ -12,7 +12,7 @@ I am a student of LP 'NU' in Lviv.
 * **[LearnJavaScript](https://learn.javascript.ru/)**
 * **[Codeacademy](https://www.codecademy.com)**
 * **[Udemy](https://www.udemy.com)**
-* **[freCodeCamp](https://www.freecodecamp.org)**
+* **[freeCodeCamp](https://www.freecodecamp.org)**
 
 ### Skills
 * ***HTML***
@@ -22,6 +22,11 @@ I am a student of LP 'NU' in Lviv.
 * ***Git***
 * ***jQuery***
 * ***Bootstrap***
+
+### My projects
+I have two projets :
+* **[website](https://englishword.yurdub.now.sh/)**
+* **[website](https://studying.yurdub.now.sh/)**
 
 ### Experience
 * **[Codeacademy](https://www.codecademy.com/profiles/yura77)**
