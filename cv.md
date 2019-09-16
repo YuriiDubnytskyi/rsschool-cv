@@ -33,6 +33,6 @@ I have two projets :
 * **[Codewars](https://www.codewars.com/users/YuriiDubnytskyi)**
 
 ### English
-But I think my level of English is about *"Pre-Intermediate"*.
+I think my level of English is about *"Pre-Intermediate"*.
 I can read technical documentation, but it's hard for me to speak. Because I'm confused about words and times.
 I can understand my interviewer if he doesn't speak fast.
