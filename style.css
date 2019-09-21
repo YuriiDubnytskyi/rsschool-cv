@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+*::-webkit-scrollbar{
+    width: 0.5em;
+    height: 0.5em;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+html{
+    background-color: rgba(212, 212, 212, 0.76);
+    font-family: "Livvic", sans-serif;
+}
+
+h1, h2, h3, h4{
+    text-align: center;
+    font-family: "Lobster",sans-serif;
+}
+
+hr{
+    width: calc(100% - 100px);
+    margin: 0 auto;
+}
+
+li{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+    font-family: "Courgette",sans-serif;
+}
+
+.wrapper{
+    max-width: 960px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+}
+
+.name-contacts{
+    text-align: center;
+}
+.nav-item{
+    text-align: center;
+    width: 150px;
+    margin: 0.2rem 0;
+    padding: 0.1rem 0.5rem;
+    background-color: black;
+    list-style-type: none;
+    border-radius: 10px;
+}
+
+.nav-item>a{
+    font-weight: 700;
+    color: white;
+}
+.nav-item>a:hover{
+    font-style: italic;
+}
+
+section{
+    padding: 1rem;
+    margin: 0.5rem 0;
+}
+
+.resources{
+    text-align: center;
+}
+
+.resource{
+    display: inline-block;
+    margin: 0.1rem 0.5rem;
+    padding: 0.1rem 0.5rem;
+}
+
+
+footer{
+    text-align: right;
+    padding: 0.2rem;
+    font-size: 1.3rem;
+}
